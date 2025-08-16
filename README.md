@@ -204,7 +204,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Support
 
 For questions, issues, or contributions, please open an issue in the repository or contact the maintainers.
-
----
-
-**Happy Training! 🎮🤖**
